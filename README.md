@@ -22,7 +22,7 @@ Demonstrar conhecimentos em:
 
 ## 🧩 Tecnologias Utilizadas
 - SQL
-- PostgreSQL / MySQL
+- Dbeaver
 - Dataset Olist
 
 ---
