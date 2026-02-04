@@ -1,4 +1,4 @@
-# Portfólio SQL Básico — Análises com Dataset Olist
+# SQL Básico — Análises com Dataset Olist
 
 Este repositório reúne consultas SQL de nível básico desenvolvidas
 com o objetivo de demonstrar domínio dos principais fundamentos da
